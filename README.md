@@ -16,9 +16,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![Filmlane Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
